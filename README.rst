@@ -1,9 +1,9 @@
 sleep-scoring
 #################
 
-**!! Under construction !!**
-
-This is a standalone version of Sleep from the Visbrain suite.
+Sleep-scoring is a flexible opensource graphical user interface for visualization, analysis and scoring of polysomnographic sleep data.
+It was orginally developed by Etienne Combrisson in collaboration with Raphael Vallat and Christian O Reilly and this is standalone contemporary  version made by Anjo Baes Pagdanganan,
+under the guidance of Omer Sharon at Center for Human Sleep Science at UC Berkeley. This version allows direct install without the need for old depdencies that are no longer maintened and include a few new features and bug fixes.
 
 A copy of the relevant documentation is provided `in this repo <https://github.com/x64-bit/sleep-scoring/blob/main/docs/sleep.rst>`_, but can also be found at the `original Visbrain repo <https://github.com/EtienneCmb/visbrain/blob/master/docs/sleep.rst>`_.
 
@@ -32,7 +32,5 @@ You can either start Python in the terminal with the `python` command and write 
 
 Credits
 =========
-Original authors:
-Etienne Combrisson, Raphael Vallat, and Christian O Reilly.
 
 Combrisson E, Vallat R, Eichenlaub J-B, O'Reilly C, Lajnef T, Guillot A, Ruby PM and Jerbi K (2017) Sleep: An Open-Source Python Software for Visualization, Analysis, and Staging of Sleep Data. Front. Neuroinform. 11:60. doi: 10.3389/fninf.2017.00060
